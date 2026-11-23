@@ -6,6 +6,15 @@
         <description>Tunnel Kit updates</description>
         <language>en</language>
         <item>
+            <title>Tunnel Kit 2.13.1</title>
+            <pubDate>Mon, 23 Nov 2026 18:09:43 GMT</pubDate>
+            <sparkle:version>104</sparkle:version>
+            <sparkle:shortVersionString>2.13.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Choose what the menu bar shows: a small eye toggle on the Servers, APIs and VPN pages. Saved API requests can now appear in the menu bar.</p>]]></description>
+            <enclosure url="https://github.com/hrmomeni/tunnel-kit-releases/releases/download/v2.13.1/TunnelKit-2.13.1.dmg" length="7720263" type="application/octet-stream" sparkle:edSignature="OxvRZI1Hg83D6sVGVklV+SIyhrmo+36WtALXVyo+dM1F6oICWbthv0bqvI+3q2ZvVWfkUZlCqIKphcOVz/AJAA=="/>
+        </item>
+        <item>
             <title>Tunnel Kit 2.13.0</title>
             <pubDate>Mon, 23 Nov 2026 17:56:05 GMT</pubDate>
             <sparkle:version>103</sparkle:version>
