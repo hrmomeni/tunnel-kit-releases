@@ -6,6 +6,15 @@
         <description>Tunnel Kit updates</description>
         <language>en</language>
         <item>
+            <title>Tunnel Kit 2.13.2</title>
+            <pubDate>Mon, 23 Nov 2026 21:10:57 GMT</pubDate>
+            <sparkle:version>105</sparkle:version>
+            <sparkle:shortVersionString>2.13.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Opened at login, Tunnel Kit now starts quietly in the menu bar with no window.</p>]]></description>
+            <enclosure url="https://github.com/hrmomeni/tunnel-kit-releases/releases/download/v2.13.2/TunnelKit-2.13.2.dmg" length="7728600" type="application/octet-stream" sparkle:edSignature="avqvm5tjfUJ73BvgD3zeQdPJL9HMHk4QlNKqZXpO9/hWLnjVhrrRrw3XcxAQkO2w5eg1aGGaz3tsAW57yrBMDg=="/>
+        </item>
+        <item>
             <title>Tunnel Kit 2.13.1</title>
             <pubDate>Mon, 23 Nov 2026 18:09:43 GMT</pubDate>
             <sparkle:version>104</sparkle:version>
