@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Tunnel Kit</title>
+        <link>https://github.com/hrmomeni/tunnel-kit-releases</link>
+        <description>Tunnel Kit updates</description>
+        <language>en</language>
+        <item>
+            <title>Tunnel Kit 2.13.0</title>
+            <pubDate>Mon, 23 Nov 2026 17:56:05 GMT</pubDate>
+            <sparkle:version>103</sparkle:version>
+            <sparkle:shortVersionString>2.13.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Change account or role now really lets you pick another role; tunnels that AWS closes after working go back to Stopped; setup buttons stay at the bottom; automatic updates.</p>]]></description>
+            <enclosure url="https://github.com/hrmomeni/tunnel-kit-releases/releases/download/v2.13.0/TunnelKit-2.13.0.dmg" length="7657405" type="application/octet-stream" sparkle:edSignature="3SXVQx9YrfY1YMtPwYmR8lnVmJ99+e2RdlgfBbAOaAhcYMNcpq/zb0qryPeCXHH2ut1s15BQ/LiR5uFVrAsmCw=="/>
+        </item>
+    </channel>
+</rss>
