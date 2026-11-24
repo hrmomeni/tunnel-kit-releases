@@ -6,6 +6,15 @@
         <description>Tunnel Kit updates</description>
         <language>en</language>
         <item>
+            <title>Tunnel Kit 2.13.3</title>
+            <pubDate>Tue, 24 Nov 2026 06:56:34 GMT</pubDate>
+            <sparkle:version>106</sparkle:version>
+            <sparkle:shortVersionString>2.13.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>The VPN shows Connected again when OpenVPN Connect starts a new log file.</p>]]></description>
+            <enclosure url="https://github.com/hrmomeni/tunnel-kit-releases/releases/download/v2.13.3/TunnelKit-2.13.3.dmg" length="7729128" type="application/octet-stream" sparkle:edSignature="oS/QdBFOeZ6Hwx/wRuD3AyRTTRtyjHa1MZJR1KOKAjcHbKzH1bsBIuyQNGP+UWFKwsk0N/UzsZ8BNx5nj3R/Dg=="/>
+        </item>
+        <item>
             <title>Tunnel Kit 2.13.2</title>
             <pubDate>Mon, 23 Nov 2026 21:10:57 GMT</pubDate>
             <sparkle:version>105</sparkle:version>
