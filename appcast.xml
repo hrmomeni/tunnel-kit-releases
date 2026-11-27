@@ -6,6 +6,15 @@
         <description>Tunnel Kit updates</description>
         <language>en</language>
         <item>
+            <title>Tunnel Kit 2.13.6</title>
+            <pubDate>Fri, 27 Nov 2026 11:13:58 GMT</pubDate>
+            <sparkle:version>109</sparkle:version>
+            <sparkle:shortVersionString>2.13.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>AWS Browser brings back extensions Chrome lost (such as 1Password): their Chrome Web Store page opens at the next start.</p>]]></description>
+            <enclosure url="https://github.com/hrmomeni/tunnel-kit-releases/releases/download/v2.13.6/TunnelKit-2.13.6.dmg" length="7762425" type="application/octet-stream" sparkle:edSignature="7zxsbMUG/GTthusrUOYHxSy+FkU9C3wJ7Uw5pIC7OH3xPHdHvnCR1+fWc9GiCWp1c6USXRvy2iQVv+WUxpZlCQ=="/>
+        </item>
+        <item>
             <title>Tunnel Kit 2.13.5</title>
             <pubDate>Fri, 27 Nov 2026 11:07:23 GMT</pubDate>
             <sparkle:version>108</sparkle:version>
