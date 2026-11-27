@@ -6,6 +6,15 @@
         <description>Tunnel Kit updates</description>
         <language>en</language>
         <item>
+            <title>Tunnel Kit 2.13.4</title>
+            <pubDate>Fri, 27 Nov 2026 10:50:46 GMT</pubDate>
+            <sparkle:version>107</sparkle:version>
+            <sparkle:shortVersionString>2.13.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>AWS Browser now says why it could not start (for example, its server is stopped in AWS) and offers Choose server.</p>]]></description>
+            <enclosure url="https://github.com/hrmomeni/tunnel-kit-releases/releases/download/v2.13.4/TunnelKit-2.13.4.dmg" length="7743996" type="application/octet-stream" sparkle:edSignature="63Bj++jVVJYlrNmzCjBXoRUwRw2QOjNTdVm1KFL7bqlFJ7aB7cCsQounepB6uMfvAWE2Qw1Jh4qDk/Pt66DfAg=="/>
+        </item>
+        <item>
             <title>Tunnel Kit 2.13.3</title>
             <pubDate>Tue, 24 Nov 2026 06:56:34 GMT</pubDate>
             <sparkle:version>106</sparkle:version>
