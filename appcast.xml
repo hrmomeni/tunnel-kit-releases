@@ -6,6 +6,15 @@
         <description>Tunnel Kit updates</description>
         <language>en</language>
         <item>
+            <title>Tunnel Kit 2.13.5</title>
+            <pubDate>Fri, 27 Nov 2026 11:07:23 GMT</pubDate>
+            <sparkle:version>108</sparkle:version>
+            <sparkle:shortVersionString>2.13.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Servers that cannot be reached show Not reachable, and Clean up removes them from the list after you confirm.</p>]]></description>
+            <enclosure url="https://github.com/hrmomeni/tunnel-kit-releases/releases/download/v2.13.5/TunnelKit-2.13.5.dmg" length="7754545" type="application/octet-stream" sparkle:edSignature="0XYtotCPqdbHAd5T7me2XkQYOC3lX+2SSQLdl/zNEUGu773W7EvwgfoWnm65vU4fw51lEOP52le6GfboQz7zDw=="/>
+        </item>
+        <item>
             <title>Tunnel Kit 2.13.4</title>
             <pubDate>Fri, 27 Nov 2026 10:50:46 GMT</pubDate>
             <sparkle:version>107</sparkle:version>
